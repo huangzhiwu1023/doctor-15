@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>illness</key>
+		<string>cold</string>
+		<key>therapeuticMethod</key>
+		<string>多喝水</string>
+	</dict>
+	<dict>
+		<key>illness</key>
+		<string>fever</string>
+		<key>therapeuticMethod</key>
+		<string>多喝开水</string>
+	</dict>
+	<dict>
+		<key>illness</key>
+		<string>snivel</string>
+		<key>therapeuticMethod</key>
+		<string>少喝冷水</string>
+	</dict>
+</array>
+</plist>
